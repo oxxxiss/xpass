@@ -1,4 +1,7 @@
 #ОПИСАНИЕ 
+![version](https://img.shields.io/badge/version-1.0-red.svg?style=flat-square "Version")
+![DLE](https://img.shields.io/badge/DLE-10.x-green.svg?style=flat-square "DLE Version")
+
 Данный модуль дает вам возможность установливать пароли на своих постах, чтобы другие не могли редактировать их. Модуль не шифрируется (в этом и смысла нет), так что в любое время можете сменить его или поставить новый.
 
 # НА ЧИПСЫ
